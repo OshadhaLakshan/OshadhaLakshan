@@ -1,18 +1,19 @@
-- 👋 Hi, I’m @OshadhaLakshan (Oshadha Lakshan Wijesinghe)
-- 👀 I’m interested in learning how to bridge the space between machines and humans ...
-- 🌱 I’m currently learning Graphics, Computer Science and Languages ...
-- 💞️ I’m looking to collaborate on non-profit organizations to teach others what i know ...
-- 📫 You can reach me via my profile at [FaceBook](https://facebook.com/oshadha.lakshan.7) ...
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: "The mask I wear may resemble another, but beneath it lies a story yet untold. Care to unravel the mystery?"
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2>About-Me 😎</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,django,flask" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,mysql,c,c++,c#" /><br>
+- 👋 Hi, I’m @OshadhaLakshan (Oshadha Lakshan Wijesinghe) ...<br/>
+- 👀 I’m interested in learning how to bridge the space between machines and humans ...<br/>
+- 🌱 I’m currently learning Graphics, Computer Science and Languages ...<br/>
+- 💞️ I’m looking to collaborate on non-profit organizations to teach others what i know ...<br/>
+- 📫 You can reach me via my profile at <ahref = https://facebook.com/oshadha.lakshan.7>[FaceBook]</a> ...<br/>
+- 😄 Pronouns: He/Him ...<br/>
+- ⚡ Fun fact: "The mask I wear may resemble another, but beneath it lies a story yet untold. Care to unravel the mystery?"
+<br/>
+<h2>Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,django,flask,mongodb,kali,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,visualstudio,mysql,sqlite,c,cs,cpp,ps,ai,pr,ae" /><br>
 </div>
-
 <br/>
 
 <!---
