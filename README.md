@@ -11,8 +11,8 @@
 <h2>Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,django,flask,mongodb,kali,linux,windows" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,visualstudio,mysql,sqlite,c,cs,cpp,ps,ai,pr,ae" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,django,flask,mongodb,kali,linux,windows,apple" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,visualstudio,mysql,sqlite,c,cs,cpp,ps,ai,pr,ae,blender" /><br>
 </div>
 <br/>
 
