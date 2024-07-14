@@ -1,5 +1,4 @@
 <h2>About-Me 😎</h2>
-<br/>
 - 👋 Hi, I’m @OshadhaLakshan (Oshadha Lakshan Wijesinghe) ...<br/>
 - 👀 I’m interested in learning how to bridge the space between machines and humans ...<br/>
 - 🌱 I’m currently learning Graphics, Computer Science and Languages ...<br/>
@@ -9,7 +8,6 @@
 - ⚡ Fun fact: "The mask I wear may resemble another, but beneath it lies a story yet untold. Care to unravel the mystery?"
 <br/>
 <h2>Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,django,flask,mongodb,kali,linux,windows,apple" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,visualstudio,mysql,sqlite,c,cs,cpp,ps,ai,pr,ae,blender" /><br>
