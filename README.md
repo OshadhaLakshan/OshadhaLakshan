@@ -4,7 +4,16 @@
 - 💞️ I’m looking to collaborate on non-profit organizations to teach others what i know ...
 - 📫 You can reach me via my profile at [FaceBook](https://facebook.com/oshadha.lakshan.7) ...
 - 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: "The mask I wear may resemble another, but beneath it lies a story yet untold. Care to unravel the mystery?" 😉 ...
+- ⚡ Fun fact: "The mask I wear may resemble another, but beneath it lies a story yet untold. Care to unravel the mystery?"
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,django,flask" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,mysql,c,c++,c#" /><br>
+</div>
+
+<br/>
 
 <!---
 OshadhaLakshan/OshadhaLakshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
