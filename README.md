@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning how to bridge the space between machines and humans ...<br/>
 - 🌱 I’m currently learning Graphics, Computer Science and Languages ...<br/>
 - 💞️ I’m looking to collaborate on non-profit organizations to teach others what i know ...<br/>
-- 📫 You can reach me via my profile at <a href = "https://facebook.com/oshadha.lakshan.7" [FaceBook]/> ...<br/>
+- 📫 You can reach me via my profile at <a href = "https://facebook.com/oshadha.lakshan.7">[FaceBook]</a> ...<br/>
 - 😄 Pronouns: He/Him ...<br/>
 - ⚡ Fun fact: "The mask I wear may resemble another, but beneath it lies a story yet untold. Care to unravel the mystery?"
 <br/>
