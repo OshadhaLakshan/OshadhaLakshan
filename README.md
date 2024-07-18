@@ -1,11 +1,13 @@
 <h2>About-Me 😎</h2>
-- 👋 Hi, I’m @OshadhaLakshan (Oshadha Lakshan Wijesinghe) ...<br/>
-- 👀 I’m interested in learning how to bridge the space between machines and humans ...<br/>
-- 🌱 I’m currently learning Graphics, Computer Science and Languages ...<br/>
-- 💞️ I’m looking to collaborate on non-profit organizations to teach others what i know ...<br/>
-- 📫 You can reach me via my profile at <a href = "https://facebook.com/oshadha.lakshan.7">[FaceBook]</a> ...<br/>
-- 😄 Pronouns: He/Him ...<br/>
-- ⚡ Fun fact: "The mask I wear may resemble another, but beneath it lies a story yet untold. Care to unravel the mystery?"
+<ul>
+<li> 👋 Hi, I’m @OshadhaLakshan (Oshadha Lakshan Wijesinghe) ...</li>
+<li> 👀 I’m interested in learning how to bridge the space between machines and humans ...</li>
+<li> 🌱 I’m currently learning Graphics, Computer Science and Languages ...</li>
+<li> 💞️ I’m looking to collaborate on non-profit organizations to teach others what i know ...</li>
+<li> 📫 You can reach me via my profile at <a href = "https://facebook.com/oshadha.lakshan.7">[FaceBook]</a> ...</li>
+<li> 😄 Pronouns: He/Him ...</li>
+<li> ⚡ Fun fact: "The mask I wear may resemble another, but beneath it lies a story yet untold. Care to unravel the mystery?"</li>
+</ul>    
 <br/>
 <h2>Languages-Frameworks-Tools ⚒️</h2>
 <div>
