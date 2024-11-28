@@ -20,4 +20,6 @@
 OshadhaLakshan/OshadhaLakshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Screenshot 2024-07-06 190240](https://github.com/user-attachments/assets/3fe023c2-5f8b-46cc-844f-114b55411ee1)
+                
+                
+<img src="https://i.imgur.com/E2dOFIn.png" alt="Background Photo" class="img-fluid">
