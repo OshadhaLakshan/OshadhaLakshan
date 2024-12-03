@@ -8,7 +8,6 @@
 <li> 😄 Pronouns: He/Him ...</li>
 <li> ⚡ Fun fact: "The mask I wear may resemble another, but beneath it lies a story yet untold. Care to unravel the mystery?"</li>
 </ul>    
-<br/>
 <h2>Languages-Frameworks-Tools ⚒️</h2>
 <div>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,django,flask,mongodb,kali,linux,windows,apple" />
