@@ -6,7 +6,7 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oshadha-lakshan) &nbsp; [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oshadha.lakshan.7) &nbsp; [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/oshadha.lakshan.7) &nbsp; [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/oshadhalakshan)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oshadha-lakshan) &nbsp;[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oshadha.lakshan.7) &nbsp;[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/oshadha.lakshan.7) &nbsp;[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/oshadhalakshan)
 
 ---
 
