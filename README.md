@@ -6,14 +6,14 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oshadha-lakshan)    [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oshadha.lakshan.7)    [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/oshadha.lakshan.7)    [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/oshadhalakshan)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oshadha-lakshan) &nbsp;  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/oshadha.lakshan.7) &nbsp;  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/oshadha.lakshan.7) &nbsp;  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/oshadhalakshan)
 
 ---
 
 ## 🛠️ **Languages, Frameworks & Tools** ⚒️  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,postgres,docker,git,github,heroku,linux,figma,vscode&perline=15" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,postgres,docker,git,github,heroku,linux,figma,vscode" alt="Skills" />
 </div>
 
 ---
