@@ -60,15 +60,6 @@
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <!-- GitHub Contributions -->
-  ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=oshadhalakshan&theme=github)
-  
-  <!-- GitHub Streaks -->
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oshadhalakshan&theme=javascript-dark)
-  
-  <!-- LeetCode Stats -->
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/oshadhalakshan?theme=dark&font=roboto)
 </div>
 
 ---
