@@ -62,9 +62,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=compact&theme=radical" alt="Top Languages" />
   
   <!-- WakaTime Stats -->
-  [![Oshadha's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oshadhalakshan&theme=radical)](https://github.com/oshadhalakshan/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oshadhalakshan&layout=compact&theme=radical" alt="WakaTime Stats" />
 </div>
-
 
 ---
 
