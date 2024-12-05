@@ -6,17 +6,17 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshadha-lakshan)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oshadha.lakshan.7)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oshadha.lakshan.7)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oshadhalakshan)
+[![LinkedIn](https:///skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oshadha-lakshan)  
+[![Instagram](https:///skillicons.dev/icons?i=instagram)](https://www.instagram.com/oshadha.lakshan.7)  
+[![Twitter](https:///skillicons.dev/icons?i=twitter)](https://twitter.com/oshadha.lakshan.7)  
+[![GitHub](https:///skillicons.dev/icons?i=github)](https://github.com/oshadhalakshan)
 
 ---
 
 ## 🛠️ **Languages, Frameworks & Tools** ⚒️  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,postgres,docker,git,github,heroku,linux,figma,vscode&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,postgres,docker,git,github,heroku,linux,figma,vscode&perline=15" alt="Skills" />
 </div>
 
 ---
