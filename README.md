@@ -12,8 +12,8 @@
 
 ## 🛠️ **Languages, Frameworks & Tools** ⚒️  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,postgres,docker,git,github,heroku,linux,figma,vscode,java,go,flutter,vue,angular,typescript,terraform,graphql,wordpress,githubactions,azure,postgresql,spring,vuejs,unity,graphql,matlab,sass,ruby,redis,scala,elixir,pytorch,kubernetes,nestjs,firebase,c++,vscode,visualstudio,materialui,jquery" alt="Skills" />
+<div align="">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,postgres,docker,git,github,heroku,linux,figma,vscode,java,go,flutter,vue,angular,typescript,terraform,graphql,wordpress,githubactions,azure,postgresql,spring,vuejs,unity,graphql,matlab,sass,ruby,redis,scala,elixir,pytorch,kubernetes,nestjs,firebase,cpp,vscode,visualstudio,materialui,jquery" alt="Skills" />
 </div>
 
 ---
