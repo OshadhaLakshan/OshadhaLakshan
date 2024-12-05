@@ -10,46 +10,11 @@
 
 ---
 
-## ⚒️ Languages & Frameworks
+## 🛠️ **Languages, Frameworks & Tools** ⚒️  
 
-Here are some languages and frameworks I'm familiar with:
-
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com)  
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)  
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)  
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com)  
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)  
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)  
-[![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org)  
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)  
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)  
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)  
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)  
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)  
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)  
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)  
-[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io)  
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)  
-[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org)  
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)  
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)  
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)  
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org)  
-[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org)  
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)  
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)  
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)  
-[![Material UI](https://skillicons.dev/icons?i=materialui)](https://mui.com)  
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)  
-[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)  
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)  
-[![JQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com)  
-[![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org)  
-[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org)  
-[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net) 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,postgres,docker,git,github,heroku,linux,figma,vscode,java,go,flutter,vue,angular,typescript,terraform,graphql,wordpress,githubactions,azure,postgresql,spring,vuejs,unity,graphql,matlab,sass,ruby,redis,scala,elixir,pytorch,kubernetes,nestjs,firebase,c++,vscode,visualstudio,materialui,jquery" alt="Skills" />
+</div>
 
 ---
 
