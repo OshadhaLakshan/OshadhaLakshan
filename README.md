@@ -52,7 +52,9 @@
 
 ---
 
-## 📈 **GitHub Stats**  
+<!-- Streak Stats (Alternative) -->
+## 📈 **GitHub Stats**
+
 
 <div align="center">
   <!-- Overall Stats -->
@@ -61,24 +63,7 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=compact&theme=radical" alt="Top Languages" />
   
-  <!-- Streak Stats (Alternative) -->
-  ## 📈 **GitHub Stats**
-
----
-
-<div align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=oshadhalakshan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <!-- Streak Stats -->
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oshadhalakshan&theme=javascript-dark)](https://git.io/streak-stats)
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-contribution-graph.ez4o.com/?username=oshadhalakshan&theme=radical" alt="Contribution Graph" />
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oshadhalakshan&theme=javascript-dark)](https://git.io/streak-stats)
 </div>
 
 ---
