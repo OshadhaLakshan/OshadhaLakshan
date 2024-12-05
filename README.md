@@ -56,10 +56,10 @@
 
 <div align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=oshadhalakshan&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oshadhalakshan&show_icons=true&theme=dark" alt="GitHub Stats" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=donut" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=donut&theme=dark" alt="Top Languages" />
 </div>
 
 ---
