@@ -63,7 +63,7 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=compact&theme=radical" alt="Top Languages" />
   
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=oshadhalakshan&theme=javascript-dark" alt="GitHub Streak" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oshadhalakshan&theme=javascript-dark)](https://git.io/streak-stats)
 </div>
 
 ---
