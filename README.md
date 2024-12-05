@@ -55,9 +55,19 @@
 ## 📈 **GitHub Stats**  
 
 <div align="center">
+  <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=oshadhalakshan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadhalakshan&theme=radical" alt="GitHub Streak Stats" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=oshadhalakshan&theme=radical" alt="Contribution Graph" />
 </div>
+
 
 ---
 
