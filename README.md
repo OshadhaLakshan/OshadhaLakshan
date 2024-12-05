@@ -62,12 +62,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=compact&theme=radical" alt="Top Languages" />
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-stats.vercel.app/?user=oshadhalakshan&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshadhalakshan&theme=radical" alt="GitHub Streak Stats" />
   
   <!-- Contribution Graph -->
-  <img src="https://github-readme-stats.vercel.app/graph?username=oshadhalakshan&theme=radical" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=oshadhalakshan&theme=radical" alt="Contribution Graph" />
 </div>
-
 
 ---
 
