@@ -59,7 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oshadhalakshan&show_icons=true&theme=radical" alt="GitHub Stats" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=pie-chart&theme=radical" alt="Top Languages" />
 </div>
 
 ---
