@@ -12,7 +12,7 @@
 
 ## 🛠️ **Languages, Frameworks & Tools** ⚒️  
 
-<div align="center">
+<div align="">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,postgres,docker,git,github,heroku,linux,figma,vscode" alt="Skills" />
 </div>
 
