@@ -62,7 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadhalakshan&layout=compact&theme=radical" alt="Top Languages" />
   
   <!-- Streak Stats (Alternative) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=oshadhalakshan&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Activity Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=oshadhalakshan&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Activity Stats" />
   
   <!-- Contribution Graph (Alternative) -->
   <img src="https://github-contribution-graph.ez4o.com/?username=oshadhalakshan&theme=radical" alt="Contribution Graph" />
