@@ -13,7 +13,7 @@
 ## 🛠️ **Languages, Frameworks & Tools**  
 
 <div align="">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,flask,docker,git,heroku,linux,windows,figma,java,go,flutter,vue,angular,typescript,terraform,graphql,githubactions,azure,postgresql,spring,vuejs,unity,graphql,matlab,sass,ruby,redis,scala,elixir,pytorch,kubernetes,nestjs,firebase,c,cpp,cs,vscode,visualstudio,materialui,jquery" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,flask,sqlite,git,heroku,linux,windows,figma,java,go,flutter,vue,angular,typescript,terraform,graphql,githubactions,azure,postgresql,spring,vuejs,unity,graphql,matlab,sass,ruby,redis,scala,elixir,pytorch,kubernetes,nestjs,firebase,c,cpp,cs,vscode,visualstudio,materialui,jquery,docker" alt="Skills" />
 </div>
 
 ---
