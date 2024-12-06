@@ -1,4 +1,4 @@
-# 🐼 Welcome to Oshadha Lakshan's GitHub!  
+# 🐼 Welcome to Oshadha's GitHub!  
 
 > _🎓 "I am an educator and developer from **Sri Lanka** specializing in **mathematics** and **web development**. I enjoy creating engaging content for students, building educational platforms, and exploring innovative technologies."_ 
 
