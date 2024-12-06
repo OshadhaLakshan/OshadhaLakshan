@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ **Languages, Frameworks & Tools I'm Familiar with**  
+## 🛠️ **Languages, Frameworks & Tools**  
 
 <div align="">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,tailwind,bootstrap,python,django,mongodb,mysql,postgres,docker,git,heroku,linux,windows,figma,java,go,flutter,vue,angular,typescript,terraform,graphql,githubactions,azure,postgresql,spring,vuejs,unity,graphql,matlab,sass,ruby,redis,scala,elixir,pytorch,kubernetes,nestjs,firebase,c,cpp,cs,vscode,visualstudio,materialui,jquery" alt="Skills" />
@@ -25,15 +25,6 @@
 - 🧑‍🏫 Creating **YouTube** content for advanced-level mathematics students.
 
 ---
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=oshadhalakshan&show_icons=true&theme=radical)  
-
----
-
-Feel free to check out my repositories and connect with me! 🚀
-
 
 ## 🌟 **Fun Quote to Leave You With**  
 
